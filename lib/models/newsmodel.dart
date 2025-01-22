@@ -1,5 +1,5 @@
 class Newsmodel{
-  //new commit
+  //new commit in 
   List<dynamic> artcicls;
   Newsmodel({required this.artcicls});
   factory Newsmodel.fromjson(Map<String,dynamic>json){
